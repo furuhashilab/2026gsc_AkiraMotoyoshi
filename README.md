@@ -1,5 +1,7 @@
 # 今、何から逃げたい？
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 都市の中で一時的に落ち着ける場所とルートを探す、スマートフォン向けWebアプリです。
 
 ## 何をするのか
@@ -71,4 +73,10 @@ GitHub Pagesでアプリを公開し、スマートフォンで使える状態�
 
 ## ライセンス
 
-このリポジトリの内容は、[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/deed.ja)（CC BY 4.0）で公開します。
+著作権者が明示されている第三者資料を除き、このリポジトリのオリジナルの研究計画、データセット、観察記録、ドキュメントなどは、[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)（CC BY 4.0）で公開します。
+
+再利用時は、次の表示を付けてください。
+
+> 「今、何から逃げたい？ 都市の余白を記録する」 by Akira Motoyoshi, licensed under CC BY 4.0.
+
+地図データ、外部ライブラリ、写真、商標などの第三者資料には、このライセンスは適用されません。各資料の出典とライセンスに従ってください。詳しい適用範囲は[`LICENSE`](LICENSE)を確認してください。
