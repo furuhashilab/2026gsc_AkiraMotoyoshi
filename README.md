@@ -68,3 +68,7 @@ GitHub Pagesでアプリを公開し、スマートフォンで使える状態�
 ## 研究の問い
 
 感情や状態を起点に都市空間を推薦することで、一般的な地図検索よりも、自分に合った一時的な回復空間を見つけやすくなるのか。
+
+## ライセンス
+
+このリポジトリの内容は、[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/deed.ja)（CC BY 4.0）で公開します。
